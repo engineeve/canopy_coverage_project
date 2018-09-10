@@ -1,1 +1,1 @@
-# canopy_coverage_project
+# Canopy coverage project
